@@ -14,12 +14,12 @@ Unirest
 
 javax.mail
 
-### Steps to clone execute the tests
-1. Clone this reposytory to your PC
-2. Open ABSoftTest
-3. Put your gmail credentionals into src/test/resources/test.properties file
-    (notice that you have to allow less secure apps to interact with this account)
-4. Using cmd run folowing command
+### Steps to clone execute the test:
+1. Clone this repository to your PC;
+2. Open ABSoftTest;
+3. Put your gmail credentionals into src/test/resources/test.properties file;
+    (notice that you have to allow less secure apps to interact with this account);
+4. Using cmd run folowing command:
 ```
 cd ABSoftTest
 mvn clean test
